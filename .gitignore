@@ -1,0 +1,15 @@
+# Dependências e saídas geradas
+/node_modules/
+/.next/
+/out/
+/build/
+/coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Configuração local e logs
+.env*
+!.env.example
+*.log
+.DS_Store
+/.vercel/
